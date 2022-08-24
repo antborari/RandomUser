@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MobileTask</string>
+
+    <string name="plus_floating_btn">+</string>
+
+    <string name="tab_users">Users</string>
+    <string name="tab_fav">Favourites</string>
+
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="email">Email</string>
+</resources>
