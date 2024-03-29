@@ -42,6 +42,9 @@ class UserDetailFragment : Fragment() {
 }
 ```
 
+## Screen
+![](files/screen.gif)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
