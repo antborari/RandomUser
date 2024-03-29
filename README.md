@@ -43,7 +43,7 @@ class UserDetailFragment : Fragment() {
 ```
 
 ## Screen
-![](files/screen.gif)
+![](files/screen.gif | width=200)
 
 ## License
 
