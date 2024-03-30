@@ -1,18 +1,17 @@
-# Aplicación android
+# List/detail
 
-- UI lista/detalle.
-- Uso de:
+- Skills:
   - Room
   - Flow
   - Coroutines
   - Dagger Hilt
   - Jetpack Compose y Layout xml
-    - Compose como view en un Fragment de androidx (1)
-    - Animaciones
+    - ComposeView into Fragment androidx (1)
+    - Animations
     - Recyclerview, ConstraintLayour, CoordinatorLayout (floating btn)
 
 
-## (1) Compose view en Fragment de androidx
+## (1) ComposeView into Fragment androidx
 
 ```kotlin
 
